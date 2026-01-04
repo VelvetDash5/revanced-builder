@@ -2,7 +2,7 @@
   "Official": {
     "repo": "ReVanced/revanced-patches",
     "stable": "v5.47.0",
-    "prerelease": "v5.48.0-dev.5"
+    "prerelease": "v5.48.0-dev.6"
   },
   "Extended": {
     "repo": "inotia00/revanced-patches",
@@ -16,7 +16,7 @@
   },
   "LisoUseInAIKyrios": {
     "repo": "LisoUseInAIKyrios/revanced-patches",
-    "stable": "v1.0.0-dev.6",
+    "stable": "",
     "prerelease": ""
   },
   "Piko": {
