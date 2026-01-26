@@ -135,7 +135,7 @@ apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music"
 # archive-dlurl = "https://archive.org/download/geologically/apks/com.google.android.apps.youtube.music"
 
 [Twitter-Piko]
-enabled = true 
+enabled = false 
 app-name = "Twitter"
 arch = "both"
 rv-brand = "ReVanced-Piko"
