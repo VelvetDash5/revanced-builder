@@ -2,7 +2,7 @@
   "Official": {
     "repo": "ReVanced/revanced-patches",
     "stable": "v5.50.2",
-    "prerelease": "v6.0.0-dev.5"
+    "prerelease": "v6.0.0-dev.10"
   },
   "Extended": {
     "repo": "inotia00/revanced-patches",
