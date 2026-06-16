@@ -11,7 +11,7 @@
   },
   "Advanced": {
     "repo": "anddea/revanced-patches",
-    "stable": "v4.0.0",
+    "stable": "v4.1.0",
     "prerelease": "v4.1.0-dev.9"
   },
   "LisoUseInAIKyrios": {
@@ -21,7 +21,7 @@
   },
   "Piko": {
     "repo": "crimera/piko",
-    "stable": "v3.4.0",
+    "stable": "v3.5.0",
     "prerelease": "v3.5.0-dev.8"
   }
 }
